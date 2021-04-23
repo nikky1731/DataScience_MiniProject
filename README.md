@@ -1,1 +1,1 @@
-# Mini_Classifying-Tweets-Based-on-Climate-Change-Stance
+# Heruko-twitter-climate-analysis
